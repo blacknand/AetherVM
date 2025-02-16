@@ -1,4 +1,5 @@
 # The LC-3 instructions mapped to their x86 counterpart instructions
+The base tutorial for this VM is for the LC-3 architecture, it uses 16 op codes and has 10 registers so we will need to implement the x86 counterparts of this. It introduces a lot of complexity however because x86 is CISC and LC-3 is RISC.
 ## LC-3 registers
 The LC-3 has 10 total registers, each of which is 16 bits. Most of them are general purpose, but a few have designated roles. - 8 general purpose registers (R0-R7) - 1 program counter (PC) register - 1 condition flags (COND) register
 ```
