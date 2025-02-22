@@ -42,3 +42,11 @@ enum
     OP_TRAP    /* execute trap */
 };
 ```
+
+## x86 instructions
+x86 has several op-codes for each LC-3 instruction
+### Branching/jumping
+-   LC-3 counterpart: OP_BR 
+```
+    
+```
