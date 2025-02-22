@@ -1,3 +1,6 @@
+> [!warning]
+> This VM will not be ready for production for a very long time
+
 # AetherVM
 A basic UNIX based VM capable of running Assembly programs simulating the x86 architecture.
 
