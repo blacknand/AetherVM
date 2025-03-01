@@ -1,5 +1,4 @@
 ; https://medium.com/@aleksej.gudkov/x86-assembly-examples-a-beginners-guide-to-low-level-programming-822b200e08ae
-; UNTESTED - DO NOT EXECUTE
 
 section .data
     msg db 'Hello, World!', 0xA  ; Message string with newline
