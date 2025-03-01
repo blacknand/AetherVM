@@ -1,8 +1,5 @@
 # Dissassembling Assembly and C programs
 Dissassembling is best done on Unix based systems (and Linux in general is just the only viable option for OS development). On the GNU/Linux system this is all packaged neatly in the `build-essential` meta-package. If you happen to be on Windows then using WSL (preferrebly V2) then is the only option.
-## Dissassembling 16 bit Assembly programs
-## Assembling 16 bit Assembly programs
-## Dissassembling 16 bit C programs
 ## Compile and debugging 16 bit C commands
 - To compile a C file
 
@@ -37,6 +34,7 @@ Dump of assembler code for function if_then:
    0x000000000000117b <+30>:    ret
 End of assembler dump.
 ```
+
 
 ### Requirements
 - `gcc` compiler
