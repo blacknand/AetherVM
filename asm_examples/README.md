@@ -2,7 +2,9 @@
 The basic structure of an Assemby program consits of three sections
 1. *Data segment*: defines the variables and constants
 2. *BSS segment*: declares the unititalised data
-3. *Text segment*: contains the executable code 
+3. *Text segment*: contains the executable code
+
+
 A generic example program would look like
 
 
